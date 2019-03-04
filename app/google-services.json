@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088473728839",
+    "firebase_url": "https://napp-41eed.firebaseio.com",
+    "project_id": "napp-41eed",
+    "storage_bucket": "napp-41eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088473728839:android:9887baa231dfebfe",
+        "android_client_info": {
+          "package_name": "com.example.studentlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088473728839-2696ljiq64q2rms7maip7rtoadnb912i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentlogin",
+            "certificate_hash": "02e237775707af8e502d42e2b32036094860b245"
+          }
+        },
+        {
+          "client_id": "1088473728839-e33vsk2ds2ng6h9594jigkd5q1mokg0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaO9WmpDUzJeT4Lr6S4fltQA6oZGP9NWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088473728839-e33vsk2ds2ng6h9594jigkd5q1mokg0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
